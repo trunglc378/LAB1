@@ -7,12 +7,14 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Introduction to GitHub
-## Tiêu đề cấp 2
-_Get started using GitHub in less than an hour._
+# Giới thiệu bản thân
+## Tóm tắt lai lịch
+Họ và tên: **Đàm Quang Trung**
+Ngày tháng năm sinh: 14/10/1991
+Nơi cư trú: Thành phố Lào Cai, tỉnh Lào Cai
 
 </header>
-
+![](
 <!--
   <<< Author notes: Step 1 >>>
   Choose 3-5 steps for your course.
